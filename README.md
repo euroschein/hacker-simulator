@@ -52,8 +52,8 @@ It's a small, self-contained terminal game meant to be run with `python main.py`
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/euroschein/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/euroschein/hacker-simulator.git
+cd hacker-simulator
 
 # 2. (Recommended) create a virtual environment
 python -m venv .venv
